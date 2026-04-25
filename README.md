@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Pankaj Jangir!
 
-<!--
-**pankajjangir1/pankajjangir1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+* 💻 **Aspiring:** Data Scientist & Python Developer
+* 📍 **Location:** Kotputli, Rajasthan
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **Languages:** Python (Pandas, NumPy)
+* **Web:** Flask, SQL, XAMPP
+* **Machine Learning:** Regression Models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Projects
+* [House Price Prediction](https://github.com/pankajjangir1/House-Price-Prediction-ML)
+* [Iris Flower Classification](https://github.com/pankajjangir1/Iris-Flower-Classificication)
+* 
