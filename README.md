@@ -26,7 +26,7 @@ Open to internships and entry-level opportunities.
 
 - [House Price Prediction](https://github.com/pankajjangir1/House-Price-Prediction-ML)
 - [Iris Flower Classification](https://github.com/pankajjangir1/Iris-Flower-Classification)
--Car Price Prediction](https://github.com/pankajjangir1/Car-Price-Prediction)
+- [Car Price Prediction](https://github.com/pankajjangir1/Car-Price-Prediction).
 ---
 
 ## Connect With Me
